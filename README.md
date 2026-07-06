@@ -265,6 +265,39 @@ The `Images/` folder contains 11 professional visualizations generated from the 
 | **plot10_SHAP.png** | SHAP summary plot (bar chart) | Global feature importance from SHAP values |
 | **plot11_SHARPDEPENDENCIES.png** | 4 dependence plots (top features) | Shows how features affect predictions |
 
+### 1. Deposit Subscription Distribution
+![Deposit Subscription Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot1_deposit_subscription.png)
+
+### 2. Age Distribution
+![Age Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot2_age_distribution.png)
+
+### 3. Job & Marital Status Distribution
+![Job & Marital Status Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot3_job_martial_dist.png)
+
+### 4. Duration & Frequency Impact
+![Duration & Frequency Impact](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot4_duration_freqpmpact.png)
+
+### 5. Balance Distribution
+![Balance Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot5_balance.png)
+
+### 6. Loan Impact Analysis
+![Loan Impact Analysis](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot6_loanimpacts.png)
+
+### 7. Confusion Matrix
+![Confusion Matrix](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot7_confusionmatrix.png)
+
+### 8. ROC Curve
+![ROC Curve](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot8_ROC.png)
+
+### 9. Feature Importance
+![Feature Importance](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot9_feature_imp.png)
+
+### 10. SHAP Summary Plot
+![SHAP Summary Plot](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot10_SHAP.png)
+
+### 11. SHAP Dependence Plot
+![SHAP Dependence Plot](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot11_SHAPDEPENDENCIES.png)
+
 ### 🖼️ How to View Visualizations
 
 1. **In Repository**: Browse the `Images/` folder on GitHub
