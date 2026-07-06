@@ -146,7 +146,7 @@ The `Images/` folder contains 11 professional visualizations generated from the 
 | **plot11_SHARPDEPENDENCIES.png** | 4 dependence plots (top features) | Shows how features affect predictions |
 
 ### 1. Deposit Subscription Distribution
-![Deposit Subscription Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot1_deposit_subscription.png)
+![Deposit Subscription Distribution](bank-deposit-prediction/Images/plot1_deposit_subscription.png)
 
 ### 2. Age Distribution
 ![Age Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot2_age_distribution.png)
