@@ -152,10 +152,10 @@ The `Images/` folder contains 11 professional visualizations generated from the 
 ![Age Distribution](bank-deposit-prediction/Images/plot2_age_distribution.png)
 
 ### 3. Job & Marital Status Distribution
-![Job & Marital Status Distribution](bank-deposit-prediction/Images/plot3_job_martial_dist.png)
+![Job & Marital Status Distribution](bank-deposit-prediction/Images/plot3_job_marital_dist.png)
 
 ### 4. Duration & Frequency Impact
-![Duration & Frequency Impact](bank-deposit-prediction/Images/plot4_duration_freqpmpact.png)
+![Duration & Frequency Impact](bank-deposit-prediction/Images/plot4_duration_freqimpact.png)
 
 ### 5. Balance Distribution
 ![Balance Distribution](bank-deposit-prediction/Images/plot5_balance.png)
