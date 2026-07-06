@@ -127,6 +127,65 @@ Accuracy                          0.86     2,233
 ```
 
 ---
+### 📊 Visualizations Explained
+
+The `Images/` folder contains 11 professional visualizations generated from the notebook:
+
+| Image | Description | Purpose |
+|-------|-------------|---------|
+| **plot1_deposit_subscription.png** | Bar chart and pie chart of target variable | Shows class distribution (47.4% vs 52.6%) |
+| **plot2_age_distribution.png** | Age histogram and box plot by deposit status | Shows older customers more likely to subscribe |
+| **plot3_job_marital_dist.png** | Subscription rate by job and marital status | Identifies high-converting customer segments |
+| **plot4_duration_freqimpact.png** | Call duration and campaign frequency analysis | Demonstrates duration is strongest predictor |
+| **plot5_balance.png** | Account balance distribution by subscription | Shows higher balance = higher subscription rate |
+| **plot6_loanimpacts.png** | Housing and personal loan status impact | Analyzes credit profile influence |
+| **plot7_confusionmatrix.png** | 3×3 heatmaps for all three models | Shows prediction accuracy breakdown (TP, TN, FP, FN) |
+| **plot8_ROC.png** | ROC curves for Logistic Regression, RF, GB | Compares model discrimination ability (AUC comparison) |
+| **plot9_feature_imp.png** | Top 10 features by importance | Identifies most influential features |
+| **plot10_SHAP.png** | SHAP summary plot (bar chart) | Global feature importance from SHAP values |
+| **plot11_SHARPDEPENDENCIES.png** | 4 dependence plots (top features) | Shows how features affect predictions |
+
+### 1. Deposit Subscription Distribution
+![Deposit Subscription Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot1_deposit_subscription.png)
+
+### 2. Age Distribution
+![Age Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot2_age_distribution.png)
+
+### 3. Job & Marital Status Distribution
+![Job & Marital Status Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot3_job_martial_dist.png)
+
+### 4. Duration & Frequency Impact
+![Duration & Frequency Impact](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot4_duration_freqpmpact.png)
+
+### 5. Balance Distribution
+![Balance Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot5_balance.png)
+
+### 6. Loan Impact Analysis
+![Loan Impact Analysis](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot6_loanimpacts.png)
+
+### 7. Confusion Matrix
+![Confusion Matrix](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot7_confusionmatrix.png)
+
+### 8. ROC Curve
+![ROC Curve](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot8_ROC.png)
+
+### 9. Feature Importance
+![Feature Importance](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot9_feature_imp.png)
+
+### 10. SHAP Summary Plot
+![SHAP Summary Plot](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot10_SHAP.png)
+
+### 11. SHAP Dependence Plot
+![SHAP Dependence Plot](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot11_SHAPDEPENDENCIES.png)
+
+### 🖼️ How to View Visualizations
+
+1. **In Repository**: Browse the `Images/` folder on GitHub
+2. **In Notebook**: Run all cells to regenerate plots (displayed inline)
+3. **Local Copy**: Download images to view in any image viewer
+4. **Reports**: Include relevant plots in presentation slides or reports
+
+---
 
 ## 🔍 Key Findings
 
@@ -244,66 +303,6 @@ Cell → Run All (or Ctrl+A → Shift+Enter)
 ```
 
 **Execution Time:** ~20-25 minutes
-
----
-
-### 📊 Visualizations Explained
-
-The `Images/` folder contains 11 professional visualizations generated from the notebook:
-
-| Image | Description | Purpose |
-|-------|-------------|---------|
-| **plot1_deposit_subscription.png** | Bar chart and pie chart of target variable | Shows class distribution (47.4% vs 52.6%) |
-| **plot2_age_distribution.png** | Age histogram and box plot by deposit status | Shows older customers more likely to subscribe |
-| **plot3_job_marital_dist.png** | Subscription rate by job and marital status | Identifies high-converting customer segments |
-| **plot4_duration_freqimpact.png** | Call duration and campaign frequency analysis | Demonstrates duration is strongest predictor |
-| **plot5_balance.png** | Account balance distribution by subscription | Shows higher balance = higher subscription rate |
-| **plot6_loanimpacts.png** | Housing and personal loan status impact | Analyzes credit profile influence |
-| **plot7_confusionmatrix.png** | 3×3 heatmaps for all three models | Shows prediction accuracy breakdown (TP, TN, FP, FN) |
-| **plot8_ROC.png** | ROC curves for Logistic Regression, RF, GB | Compares model discrimination ability (AUC comparison) |
-| **plot9_feature_imp.png** | Top 10 features by importance | Identifies most influential features |
-| **plot10_SHAP.png** | SHAP summary plot (bar chart) | Global feature importance from SHAP values |
-| **plot11_SHARPDEPENDENCIES.png** | 4 dependence plots (top features) | Shows how features affect predictions |
-
-### 1. Deposit Subscription Distribution
-![Deposit Subscription Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot1_deposit_subscription.png)
-
-### 2. Age Distribution
-![Age Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot2_age_distribution.png)
-
-### 3. Job & Marital Status Distribution
-![Job & Marital Status Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot3_job_martial_dist.png)
-
-### 4. Duration & Frequency Impact
-![Duration & Frequency Impact](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot4_duration_freqpmpact.png)
-
-### 5. Balance Distribution
-![Balance Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot5_balance.png)
-
-### 6. Loan Impact Analysis
-![Loan Impact Analysis](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot6_loanimpacts.png)
-
-### 7. Confusion Matrix
-![Confusion Matrix](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot7_confusionmatrix.png)
-
-### 8. ROC Curve
-![ROC Curve](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot8_ROC.png)
-
-### 9. Feature Importance
-![Feature Importance](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot9_feature_imp.png)
-
-### 10. SHAP Summary Plot
-![SHAP Summary Plot](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot10_SHAP.png)
-
-### 11. SHAP Dependence Plot
-![SHAP Dependence Plot](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/piot11_SHAPDEPENDENCIES.png)
-
-### 🖼️ How to View Visualizations
-
-1. **In Repository**: Browse the `Images/` folder on GitHub
-2. **In Notebook**: Run all cells to regenerate plots (displayed inline)
-3. **Local Copy**: Download images to view in any image viewer
-4. **Reports**: Include relevant plots in presentation slides or reports
 
 ---
 
