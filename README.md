@@ -149,34 +149,34 @@ The `Images/` folder contains 11 professional visualizations generated from the 
 ![Deposit Subscription Distribution](bank-deposit-prediction/Images/plot1_deposit_subscription.png)
 
 ### 2. Age Distribution
-![Age Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot2_age_distribution.png)
+![Age Distribution](bank-deposit-prediction/Images/plot2_age_distribution.png)
 
 ### 3. Job & Marital Status Distribution
-![Job & Marital Status Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot3_job_martial_dist.png)
+![Job & Marital Status Distribution](bank-deposit-prediction/Images/plot3_job_martial_dist.png)
 
 ### 4. Duration & Frequency Impact
-![Duration & Frequency Impact](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot4_duration_freqpmpact.png)
+![Duration & Frequency Impact](bank-deposit-prediction/Images/plot4_duration_freqpmpact.png)
 
 ### 5. Balance Distribution
-![Balance Distribution](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot5_balance.png)
+![Balance Distribution](bank-deposit-prediction/Images/plot5_balance.png)
 
 ### 6. Loan Impact Analysis
-![Loan Impact Analysis](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot6_loanimpacts.png)
+![Loan Impact Analysis](bank-deposit-prediction/Images/plot6_loanimpacts.png)
 
 ### 7. Confusion Matrix
-![Confusion Matrix](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot7_confusionmatrix.png)
+![Confusion Matrix](bank-deposit-prediction/Images/plot7_confusionmatrix.png)
 
 ### 8. ROC Curve
-![ROC Curve](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot8_ROC.png)
+![ROC Curve](bank-deposit-prediction/Images/plot8_ROC.png)
 
 ### 9. Feature Importance
-![Feature Importance](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot9_feature_imp.png)
+![Feature Importance](bank-deposit-prediction/Images/plot9_feature_imp.png)
 
 ### 10. SHAP Summary Plot
-![SHAP Summary Plot](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot10_SHAP.png)
+![SHAP Summary Plot](bank-deposit-prediction/Images/plot10_SHAP.png)
 
 ### 11. SHAP Dependence Plot
-![SHAP Dependence Plot](Term-Deposit-Subscription-Prediction-BankMarketing/bank-deposit-prediction/Images/plot11_SHAPDEPENDENCIES.png)
+![SHAP Dependence Plot](bank-deposit-prediction/Images/plot11_SHAPDEPENDENCIES.png)
 
 ### 🖼️ How to View Visualizations
 
